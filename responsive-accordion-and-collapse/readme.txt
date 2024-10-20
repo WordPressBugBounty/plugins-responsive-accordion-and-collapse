@@ -4,7 +4,7 @@ Donate link: https://www.wpshopmart.com
 Tags: Accordion,  FAQ, collapse, responsive accordion, frequently asked questions 
 Requires at least: 5.0
 Tested up to: 6.6
-Stable tag: 2.4.9
+Stable tag: 2.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -148,6 +148,11 @@ Just copy your FAQ accordion shortcode [WPSM_AC id=xx] and then paste it on your
 
 May be possible it's conflict with other plugin so try to deactivate other plugin one by one and then check which one is conflict after then contact us here [our support forum](https://wordpress.org/support/plugin/responsive-accordion-and-collapse/). 
 
+
+= Do in need any coding skills to implement Accordion FAQ plugin ?  =
+
+No, You don't need to learn any coding skill or knowledeg of any coding skills.  You can add accordion/faq with just few clicks. 
+
 = Is this plugin responsive ?  =
 
 yes, it's based on bootstrap.  Accordion FAQ content are compatible with all media devices.  
@@ -183,9 +188,11 @@ We love your feedback please submit your review here [pluign review](https://wor
 
 == Changelog ==
 
+= 2.5.0 =
+* Minor Changes 
+
 = 2.4.9 =
 * Compatible with WordPress 6.6
-
 
 = 2.4.8 =
 * Compatible with WordPress 6.5
