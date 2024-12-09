@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
 Tags: Accordion,  FAQ, collapse, responsive accordion, frequently asked questions 
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 2.5.0
+Tested up to: 6.7.1
+Stable tag: 2.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Accordion And Collapse is the most easiest drag & drop accordion builder for Wor
 Thanks for visit our plugin. Need an awesome accordion FAQ plugin then this is it.  Responsive Accordion is has buildup with excellent accordion FAq builder for wordpress. You can add unlimited accordion and collapse with unlimited color.You can easy sort your accordion position using backend. Responsive Accordion is built-in bootstrap. 
 
 
-* [Accordion Pro - Live Demo](http://demo.wpshopmart.com/accordion-pro/)
+* [Accordion Pro - Live Demo](https://wpshopmart.com/demos/accordion-pro/)
 * [Upgrade To Accordion Pro](https://wpshopmart.com/plugins/accordion-pro/)
 
 
@@ -99,7 +99,7 @@ Here xx is your accordion shortcode id.
 
 ### Check Demos
 
-* [Accordion Pro - Live Demo](http://demo.wpshopmart.com/accordion-pro/)
+* [Accordion Pro - Live Demo](https://wpshopmart.com/demos/accordion-pro/)
 * [Upgrade To Accordion Pro](https://wpshopmart.com/plugins/accordion-pro/)
 
 = Responsive Design =
@@ -187,6 +187,9 @@ We love your feedback please submit your review here [pluign review](https://wor
 11. accordion styles 2
 
 == Changelog ==
+
+= 2.5.1 =
+* Compatible with WordPress 6.7
 
 = 2.5.0 =
 * Minor Changes 
