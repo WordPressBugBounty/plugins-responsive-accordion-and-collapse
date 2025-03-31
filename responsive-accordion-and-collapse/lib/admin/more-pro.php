@@ -117,7 +117,7 @@
 			<div style="overflow:hidden;display:block;width:100%;padding-top:20px;padding-bottom:20px;height: 450px; overflow: auto;">
 				<div class="row col-md-12">
 					
-					<div class="col-md-4"> 
+					<div class="col-md-3"> 
 					
 							<div class="wpsm-theme-container" style="">
 								<img width="700" height="394" src="<?php echo esc_url(wpshopmart_accordion_directory_url.'img/ac.png'); ?>" class="wpsm_site-img-responsive wp-post-image" alt="Colorbox and panels pro plugin">
@@ -134,7 +134,7 @@
 						
 					</div>
 					
-					<div class="col-md-4"> 
+					<div class="col-md-3"> 
 						
 							<div class="wpsm-theme-container" style="">
 								<img width="700" height="394" src="<?php echo esc_url(wpshopmart_accordion_directory_url.'img/tabs-pro-screesnhot.png'); ?>" class="wpsm_site-img-responsive wp-post-image" alt="tabs pro plugin">
@@ -151,7 +151,7 @@
 						
 					</div>
 					
-					<div class="col-md-4"> 
+					<div class="col-md-3"> 
 						
 							<div class="wpsm-theme-container" style="">
 								<img width="700" height="394" src="<?php echo esc_url(wpshopmart_accordion_directory_url.'img/csp.png'); ?>" class="wpsm_site-img-responsive wp-post-image" alt="Colorbox and panels pro plugin">
@@ -170,7 +170,7 @@
 					
 					
 					
-					<div class="col-md-4"> 
+					<div class="col-md-3"> 
 						
 							<div class="wpsm-theme-container" style="">
 								<img width="700" height="394" src="<?php echo esc_url(wpshopmart_accordion_directory_url.'img/counters.jpg'); ?>" class="wpsm_site-img-responsive wp-post-image" alt="Colorbox and panels pro plugin">
@@ -188,7 +188,7 @@
 					</div>
 					
 					
-					<div class="col-md-4"> 
+					<div class="col-md-3"> 
 						
 							<div class="wpsm-theme-container" style="">
 								<img width="700" height="394" src="<?php echo esc_url(wpshopmart_accordion_directory_url.'img/service-showcase-pro-preview.jpg'); ?>" class="wpsm_site-img-responsive wp-post-image" alt="Colorbox and panels pro plugin">
@@ -206,7 +206,7 @@
 					</div>
 					
 					
-					<div class="col-md-4"> 
+					<div class="col-md-3"> 
 						
 							<div class="wpsm-theme-container" style="">
 								<img width="700" height="394" src="<?php echo esc_url(wpshopmart_accordion_directory_url.'img/cb.png'); ?>" class="wpsm_site-img-responsive wp-post-image" alt="Colorbox and panels pro plugin">

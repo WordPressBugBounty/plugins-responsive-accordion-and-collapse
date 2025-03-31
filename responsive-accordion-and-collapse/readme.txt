@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
 Tags: Accordion,  FAQ, collapse, responsive accordion, frequently asked questions 
 Requires at least: 5.0
-Tested up to: 6.7.1
-Stable tag: 2.5.1
+Tested up to: 6.7.2
+Stable tag: 2.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -187,6 +187,10 @@ We love your feedback please submit your review here [pluign review](https://wor
 11. accordion styles 2
 
 == Changelog ==
+
+= 2.5.2 =
+* Backend setting panel design improved
+* Minor styling issue resolved
 
 = 2.5.1 =
 * Compatible with WordPress 6.7

@@ -137,7 +137,7 @@
 	  }
 </style>
 <h1><?php esc_html_e('Recommended Free WordPress Plugins From Wpshopmart',wpshopmart_accordion_text_domain); ?></h1>
-<div style="overflow:hidden;display:block;width:100%;padding-top:20px;padding-bottom:20px;">
+<div style="overflow:hidden;display:block;width:100%;padding-top:20px;padding-bottom:20px;height: 450px; overflow: auto;">
 	<div class="col-md-12">
 		
 	<div class="panel  content-panel">
